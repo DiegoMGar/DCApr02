@@ -144,9 +144,9 @@ try:
             else:
                 os.makedirs(dir+proyecto) 
         print()
-        print("***************************************")
+        print("************************")
         print("*Nuevo proyecto creado.*")
-        print("***************************************")
+        print("************************")
         print("\n\nPresiona cualquier tecla para volver a empezar.")
         input()
 except KeyboardInterrupt:
