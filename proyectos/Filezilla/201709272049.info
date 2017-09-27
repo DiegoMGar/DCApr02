@@ -1,0 +1,11 @@
+{
+  "comentarios":[
+    "Cliente01 [201709-27 20:50]: Cuando intento conectarme por ftps no me aparece el certificado de seguridad y se cierra la conexi\u00f3n.",
+    "Developer01 [201709-27 20:54]: Probablemente sea porque tienes la configuraci\u00f3n de la conexi\u00f3n en ftp plano, \u00bfpodr\u00edas revisarlo?",
+    "Cliente01 [201709-27 20:56]: Es verdad, vaya fallo m\u00e1s gordo. Cierro la incidencia y os pongo 10 estrellas. Muchas gracias."
+  ],
+  "estado":"cerrado",
+  "titulo":"No funciona el FTPS",
+  "urgencia":"2",
+  "usuario":"Cliente01"
+}
